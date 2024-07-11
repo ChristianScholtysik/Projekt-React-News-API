@@ -1,0 +1,20 @@
+.search-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  background-color: rgb(233, 233, 233);
+  padding: 20px 20px;
+}
+
+.input {
+  border-radius: 10px;
+  padding: 10px 10px;
+  border: none;
+}
+.btn {
+  background-color: rgb(141, 141, 141);
+  color: white;
+}
